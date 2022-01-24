@@ -1,7 +1,19 @@
-#title, #subtitle, #post_title {
-    color: pink
+body {
+    background: gray;
 }
-post_title {
+
+#title {
+    color: purple
+}
+.post_title {
     font-size: 16px;
     font-style: italic;
+    color: purple;
+}
+.post {
+    background: white;
+    padding: 10px;
+    border: 3px solid violet;
+    margin: 10px;
+    color: purple;
 }
